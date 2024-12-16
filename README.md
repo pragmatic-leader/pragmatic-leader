@@ -1,7 +1,3 @@
-Here’s a profile README tailored for your **pragmaticleader.io** website:
-
----
-
 # Welcome to PragmaticLeader.io 👋
 
 Hi, I'm **Aaron**, a technology leader with a passion for **pragmatic leadership** in engineering and tech organizations. Over my career as a **CTO, VP of Engineering, and Engineer**, I've navigated the challenges of scaling teams, building resilient platforms, and fostering cultures that thrive on innovation and collaboration.
