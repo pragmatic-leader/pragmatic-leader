@@ -32,7 +32,3 @@ At PragmaticLeader.io, the goal is to make **leadership approachable, actionable
 ---
 
 **📢 Let’s build a community of pragmatic, empathetic, and effective leaders together!**
-
----
-
-Would you like any specific adjustments, such as integrating key values or highlighting your personal leadership philosophy?
